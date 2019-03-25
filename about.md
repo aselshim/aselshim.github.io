@@ -3,6 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
+My coordinates: 
+
+                
+![Profile picture](/images/my-photo.png)
 
 I am an electrical engineer living in Austin. I have an obsession with the electromagnetic theory. And I am addicted to coding/programming. 
 

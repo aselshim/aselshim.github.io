@@ -14,19 +14,46 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Asem Elshimi
-email: assem dot elsheemy at gmail dot com
+email: assem.elsheemy at gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I share stuff that I think is cool on this website.
 baseurl: "" # the subpath of your site, e.g. /blog
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+footerImg: /images/laptop.gif
+
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
-github_username:  aselshim
+
+
+
+
 
 header_pages:
  - about.md
  - Engineering.md
  - Philosophy.md
  - Other.md
+
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    #twitter: aselshim
+    #github:  
+    #rss: 
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    # linkedin: jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+
 
 # Build settings
 markdown: kramdown
