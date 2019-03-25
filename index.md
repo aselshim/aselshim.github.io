@@ -5,12 +5,12 @@
 layout: home
 ---
 
-
+You arrived safely so enjoy yourselves. 
 
 <img src="/images/webpage.png" width="500">
 
 
-You arrived safely so enjoy yourselves. 
+
 
 <img src="/images/fire.gif" width="50">
 <img src="/images/fire.gif" width="50">
