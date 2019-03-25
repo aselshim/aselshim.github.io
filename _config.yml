@@ -27,7 +27,7 @@ copyright: All rights reserved. 2019.
 developed: This website is powered by Jekyll.
 
 
-permalink: /:categories/:year-:month-:day-:title/
+#permalink: /:categories/:year-:month-:day-:title/
 
 header_pages:
  - "about.md"
