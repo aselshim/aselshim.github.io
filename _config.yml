@@ -31,9 +31,9 @@ permalink: /:categories/:year-:month-:day-:title/
 
 header_pages:
  - "about.md"
-# - "engineering/index.md"
-# - "philosophy/index.md"
-# - "RandomFeed/index.md"
+ - "engineering/engineering.md"
+ - "philosophy/philosophy.md"
+ - "RandomFeed/RandomFeed.md"
 
 minima:
   date_format: "%Y %b %-d"

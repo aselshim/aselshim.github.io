@@ -1,6 +1,7 @@
 ---
 layout: page
 title: RandomFeed
+permalink: /randomfeed/
 ---
 
 *This is my of what feeds should be like.*

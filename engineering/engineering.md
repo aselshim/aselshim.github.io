@@ -1,18 +1,14 @@
 ---
 layout: page
-title: Philosophy
+title: Engineering
+permalink: /engineering/
 ---
 
-> The unexamined life is not worth living.
-> -Plato
-
-Here are links to all blogposts related to my philosophy of life. 
-
-
+Links to all Engineering, mathematics and science blogposts.
 
 
 {% for category in site.categories %}
-  {% if category[0] == "philosophy" %}
+  {% if category[0] == "engineering" %}
 
   <ul>
     {% for post in category[1] %}
@@ -28,8 +24,3 @@ Here are links to all blogposts related to my philosophy of life.
   </ul>
   {% endif %}
 {% endfor %}
-
-<br>
-<br>
-<br>
-<center> Absurdism. Effectiveness. Individualism. <center>
