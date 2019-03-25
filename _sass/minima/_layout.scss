@@ -205,13 +205,25 @@
 
 .post-list {
   //margin-left: 0;
-  list-style: none;
   list-style-type: square; 
 
   > li {
    // margin-bottom: $spacing-unit;
   }
 }
+
+.post-feed {
+  //margin-left: 0;
+  list-style-type: none; 
+  
+  
+  > li {
+   // margin-bottom: $spacing-unit;
+  }
+}
+
+
+
 
 .post-meta {
   font-size: $small-font-size;

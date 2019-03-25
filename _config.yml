@@ -16,21 +16,24 @@
 title: Asem Elshimi
 email: assem.elsheemy at gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I share stuff that I think is cool on this website.
+  Asem's webpage.
 baseurl: "" # the subpath of your site, e.g. /blog
 avatar: /images/my-photo.png
 footerImg: /images/laptop.gif
 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-copyright: All rights reserved. 
-developed: This website was developed by Jekyll.
+copyright: All rights reserved. 2019.
+developed: This website is powered by Jekyll.
+
+
+permalink: /:categories/:year-:month-:day-:title/
 
 header_pages:
- - about.md
- - Engineering.md
- - Philosophy.md
- - Other.md
+ - "about.md"
+ - "engineering/index.md"
+ - "philosophy/index.md"
+ - "RandomFeed/index.md"
 
 minima:
   date_format: "%Y %b %-d"
@@ -54,11 +57,14 @@ minima:
     # microdotblog: jekyll
 
 
+
+
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
-  #- jekyll-feed
+  - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
