@@ -4,3 +4,7 @@
 
 layout: home
 ---
+You arrived safely so enjoy yourselves. 
+
+
+<img src="/images/webpage.png" width="500">

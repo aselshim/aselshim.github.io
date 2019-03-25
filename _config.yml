@@ -18,14 +18,14 @@ email: assem.elsheemy at gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I share stuff that I think is cool on this website.
 baseurl: "" # the subpath of your site, e.g. /blog
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: /images/my-photo.png
 footerImg: /images/laptop.gif
 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 
-
+maxposts: 5
 
 header_pages:
  - about.md
@@ -34,7 +34,7 @@ header_pages:
  - Other.md
 
 minima:
-  date_format: "%b %-d, %Y"
+  date_format: "%Y %b %-d"
 
   # generate social links in footer
   social_links:

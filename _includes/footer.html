@@ -4,7 +4,7 @@
   <div class="wrapper">
 
     <div class="footer-col-wrapper">
-      <div class="footer-col one-half">
+      <div class="footer-col one-third">
      <!––  I deleted something that showed my name again, AE ––>
         <ul class="contact-list">
           <li class="p-name">
@@ -19,16 +19,24 @@
             {%- endif -%}
         </ul>
       </div>
-
-
+	  
+	  
+	  <div class="footer-col one-third">
+        <img src="{{ site.footerImg }}" alt="spinning laptop" width="40" />
+		<img src="{{ site.footerImg }}" alt="spinning laptop" width="40" />
+		<img src="{{ site.footerImg }}" alt="spinning laptop" width="40" />
+		<img src="{{ site.footerImg }}" alt="spinning laptop" width="40" />
+		<img src="{{ site.footerImg }}" alt="spinning laptop" width="40" />
+      </div>
       
-      <div class="footer-col one-half">
-        <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.footerImg }}" /></a>
+      <div class="footer-col one-third">
 		<p>{{- site.description | escape -}}</p>
       </div>
 
+
+	  
       <div class="social-links">
-        {%- include social.html -%}
+		{%- include social.html -%}
       </div>
     </div>
 

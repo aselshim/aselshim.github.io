@@ -200,15 +200,16 @@
 }
 
 .post-list-heading {
-  @include relative-font-size(1.75);
+  @include relative-font-size(1.2);
 }
 
 .post-list {
-  margin-left: 0;
+  //margin-left: 0;
   list-style: none;
+  list-style-type: square; 
 
   > li {
-    margin-bottom: $spacing-unit;
+   // margin-bottom: $spacing-unit;
   }
 }
 
@@ -218,8 +219,8 @@
 }
 
 .post-link {
-  display: block;
-  @include relative-font-size(1.5);
+  display: inline;
+  @include relative-font-size(1);
 }
 
 
@@ -295,4 +296,8 @@
 .one-half {
   width: -webkit-calc(50% - (#{$spacing-unit} / 2));
   width:         calc(50% - (#{$spacing-unit} / 2));
+}
+.one-third {
+  width: -webkit-calc(33% - (#{$spacing-unit} / 2));
+  width:         calc(33% - (#{$spacing-unit} / 2));
 }
