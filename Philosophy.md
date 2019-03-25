@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Examined life
+title: Philosophy
 permalink: /Examined_life/
 ---
 

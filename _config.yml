@@ -23,9 +23,8 @@ footerImg: /images/laptop.gif
 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-
-
-maxposts: 5
+copyright: All rights reserved. 
+developed: This website was developed by Jekyll.
 
 header_pages:
  - about.md

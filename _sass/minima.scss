@@ -13,14 +13,14 @@ $spacing-unit:     30px !default;
 
 $text-color:       #000000 !default;
 $background-color: #00FFFF !default;
-$brand-color:      #000000 !default;
+$brand-color:      #0000FF !default;
 
-$grey-color:       $text-color !default;
-//$grey-color-light: lighten($grey-color, 40%) !default;
-//$grey-color-dark:  darken($grey-color, 25%) !default;
+$grey-color:       #0000FF !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark:  darken($grey-color, 25%) !default;
 $orange-color:     #000000 !default;
-$grey-color-light: $grey-color !default;
-$grey-color-dark:  $grey-color !default;
+//$grey-color-light: $grey-color !default;
+//$grey-color-dark:  $grey-color !default;
 $table-text-align: left !default;
 
 // Width of the content area

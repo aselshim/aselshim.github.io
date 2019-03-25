@@ -4,33 +4,17 @@
   <div class="wrapper">
 
     <div class="footer-col-wrapper">
-      <div class="footer-col one-third">
-     <!––  I deleted something that showed my name again, AE ––>
-        <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              <!–– {{ site.title | escape }} ––>
-            {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
-        </ul>
-      </div>
+
 	  
 	  
-	  <div class="footer-col one-third">
+	  <div class="footer-col one-half">
         <img src="{{ site.footerImg }}" alt="spinning laptop" width="40" />
 		<img src="{{ site.footerImg }}" alt="spinning laptop" width="40" />
 		<img src="{{ site.footerImg }}" alt="spinning laptop" width="40" />
 		<img src="{{ site.footerImg }}" alt="spinning laptop" width="40" />
 		<img src="{{ site.footerImg }}" alt="spinning laptop" width="40" />
-      </div>
-      
-      <div class="footer-col one-third">
-		<p>{{- site.description | escape -}}</p>
+		<img src="{{ site.footerImg }}" alt="spinning laptop" width="40" />
+		<img src="{{ site.footerImg }}" alt="spinning laptop" width="40" />
       </div>
 
 
@@ -39,6 +23,11 @@
 		{%- include social.html -%}
       </div>
     </div>
+	
+	
+	<body>{{- site.developed | escape -}}<br></body>
+	<body>{{- site.copyright | escape -}}</body>
+
 
   </div>
 
