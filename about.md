@@ -11,14 +11,13 @@ I am an electrical engineer living in Austin. I have an obsession with the elect
 
 I am also a lecturer at University of Texas Austin.
 
-I live in Austin, TX. A very weird mixture of conservatism, spirtualism and progression fills the streets of this economically exploding town.
+I live in Austin, TX. A very weird mixture of conservatism, spirtualism and progression fills the streets of this economically booming town.
 
-I come from Egypt. I survived the state police violence during the Arab Spring revolution. I dream of a secular middle-east. Religious and sexual freedom are necessities.
+I am Lebanese. I was born in Qatar. I dream of a secular middle-east; Where Religious and sexual freedom is a right to every individual.
 
 
 ### Hit me up:   
-- <img src="/images/counter.gif" width="70">
-- email: assem.elsheemy@gmail.com
+- email: assem.elsheemy at gmail.com
 - github: [aselshim](https://github.com/aselshim)
 - reddit: Assem_131
 - linkedIn: [Asem Elshimi](https://www.linkedin.com/in/asem-elshimi-2359a510b)

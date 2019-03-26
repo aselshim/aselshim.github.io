@@ -4,7 +4,11 @@ title: Engineering
 permalink: /engineering/
 ---
 
-Links to all Engineering, mathematics and science blogposts.
+
+<img src="/images/wave.gif" width="100">
+
+Links to all Engineering, mathematics and science blogposts:
+
 
 
 {% for category in site.categories %}
@@ -24,3 +28,4 @@ Links to all Engineering, mathematics and science blogposts.
   </ul>
   {% endif %}
 {% endfor %}
+

@@ -4,7 +4,9 @@ title: RandomFeed
 permalink: /randomfeed/
 ---
 
-*This is my of what feeds should be like.*
+*My content oriented feed.*
+
+
 
 {% for category in site.categories %}
   {% if category[0] == "RandomFeed" %}
@@ -24,16 +26,11 @@ permalink: /randomfeed/
         
       
 	  
-	  	<img src="/images/fire.gif" width="50">
-		<img src="/images/fire.gif" width="50">
-		<img src="/images/fire.gif" width="50">
-		<img src="/images/fire.gif" width="50">
-		<img src="/images/fire.gif" width="50">
-		<img src="/images/fire.gif" width="50">
-		<img src="/images/fire.gif" width="50">
+
+
 		
-		<br/>
-		===========================================================
+		<hr>
+		<br>
 		
 		</li>
 		

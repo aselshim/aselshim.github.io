@@ -32,7 +32,7 @@ permalink: /:categories/:year-:month-:day-:title/
 header_pages:
  - "about.md"
  - "engineering/engineering.md"
- - "philosophy/philosophy.md"
+ - "life/life.md"
  - "RandomFeed/RandomFeed.md"
 
 minima:
