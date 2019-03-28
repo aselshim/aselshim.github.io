@@ -7,7 +7,7 @@ permalink: /engineering/
 
 <img src="/images/wave.gif" width="100">
 
-Links to all Engineering, mathematics and science blogposts:
+Links to Engineering, mathematics and science posts:
 
 
 
@@ -28,4 +28,10 @@ Links to all Engineering, mathematics and science blogposts:
   </ul>
   {% endif %}
 {% endfor %}
+
+<hr>
+<br>
+# Teaching:
+
+## [Introduction to Python, EE 108S, UT Austin | Spring 2019.]({{ site.url }}/engineering/teaching/utee108s/)
 
