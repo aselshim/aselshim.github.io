@@ -33,5 +33,5 @@ Links to Engineering, mathematics and science posts:
 <br>
 # Teaching:
 
-## [Introduction to Python, EE 108S, UT Austin | Spring 2019.]({{ site.url }}/engineering/teaching/utee108s/)
+### [Introduction to Python, EE 108S | UT Austin | Spring 2019.]({{ site.url }}/engineering/teaching/utee108s/)
 
