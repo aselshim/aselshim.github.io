@@ -14,3 +14,9 @@ A list of top news platforms for the semiconductor industry:
 * Follow Silicon Labs and our competitors such as Intel, Broadcom, Qualcomm, TI, etc. on [Seeking Alpha](https://seekingalpha.com/) and other news platforms  
 
 * [https://www.technologyreview.com/](https://www.technologyreview.com/)
+
+
+# Wireless news;
+* https://www.fiercewireless.com/
+* https://www.itron.com/na/
+* https://www.landisgyr.com/ 
