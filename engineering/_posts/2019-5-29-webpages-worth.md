@@ -14,3 +14,6 @@ Easily a genius sharing some cool stuff with us. We are so lucky: [norvig.com/](
 
 ## Analog Zoo:
 Super fun electrical engineering projects: [http://www.analogzoo.com/](http://www.analogzoo.com/)
+
+## Scott Aaronson:
+Scott Aaronson's blog where he shares exciting stuff about quantum computing: [https://www.scottaaronson.com/](https://www.scottaaronson.com/)

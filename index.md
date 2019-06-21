@@ -26,6 +26,17 @@ This website is my one size fits all platform for sharing and bookmarking stuff.
 <img src="/images/fire.gif" width="50">
 <img src="/images/fire.gif" width="50">
 
+<br>
+<hr>
+<br>
+
+# Links to published articles:
+
+* [The art of soldering from a design engineer’s perspective](https://www.electronicproducts.com/Education/Career/The_art_of_soldering_from_a_design_engineer_s_perspective.aspx)
+
+* [Python vs. Matlab for Electrical Engineers](https://www.eeweb.com/profile/asemelshimi/articles/python-vs-matlab-for-electrical-engineers)
+
+* [Maxwell’s equations: An intuitive view for engineers](https://www.powerelectronictips.com/intuitive-view-of-maxwells-equations-faq/)
 
 <br>
 <hr>
@@ -35,32 +46,5 @@ This website is my one size fits all platform for sharing and bookmarking stuff.
 ### [Introduction to Python, EE 108S | UT Austin | Spring 2019.]({{ site.url }}/engineering/teaching/utee108s/)
 
 
-<br>
-<br>
-<hr>
-<br>
 
-<img src="/images/wave.gif" width="100">
-
-Links to Engineering, mathematics and science posts:
-
-
-
-{% for category in site.categories %}
-  {% if category[0] == "engineering" %}
-
-  <ul>
-    {% for post in category[1] %}
-
-	  <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-          <a class="post-link" href="{{ post.url | relative_url }}"> <span class="post-meta">{{ post.date | strip_newlines | date: date_format  }}==> </span>
-            {{ post.title | strip_newlines}}</a>
-
-        
-      </li>
-    {% endfor %}
-  </ul>
-  {% endif %}
-{% endfor %}
 
