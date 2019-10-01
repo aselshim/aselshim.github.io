@@ -33,7 +33,7 @@ header_pages:
  - "about.md"
  - "engineering/engineering.md"
  - "life/life.md"
- - "RandomFeed/RandomFeed.md"
+
 
 minima:
   date_format: "%Y %b %-d"

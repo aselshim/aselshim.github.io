@@ -9,9 +9,7 @@ You arrived safely so enjoy yourselves.
 
 <img src="/images/webpage.png" width="500">
 
-I believe in the Internet; The massive flow of information. My identity is shaped by the 90s tech boom.
-
-Yet, I am tired of social media feed. It is designed to make us addicted to it. It is too distracting.
+I am a microwave engineer with huge passion for technology. I get a kick from tinkering with stuff. In other words, I am, admittedly, a nerd. I am gifted with a highly rational yet imaginative mind. I enjoy exploring boundaries of scientific theories.
 
 This website is my one size fits all platform for sharing and bookmarking stuff.
 
@@ -27,16 +25,18 @@ This website is my one size fits all platform for sharing and bookmarking stuff.
 <img src="/images/fire.gif" width="50">
 
 <br>
-<hr>
-<br>
 
 # Links to published articles:
+
+* [Doing good with the IoT](https://internetofthingsagenda.techtarget.com/blog/IoT-Agenda/Doing-good-with-IoT-to-overcome-utility-challenges)
 
 * [The art of soldering from a design engineer’s perspective](https://www.electronicproducts.com/Education/Career/The_art_of_soldering_from_a_design_engineer_s_perspective.aspx)
 
 * [Python vs. Matlab for Electrical Engineers](https://www.eeweb.com/profile/asemelshimi/articles/python-vs-matlab-for-electrical-engineers)
 
 * [Maxwell’s equations: An intuitive view for engineers](https://www.powerelectronictips.com/intuitive-view-of-maxwells-equations-faq/)
+
+* [Understanding the electromagnetics of real capacitors](https://www.powerelectronictips.com/understanding-electromagnetics-real-capacitors/)
 
 <br>
 <hr>
