@@ -5,24 +5,10 @@
 layout: home
 ---
 
-You arrived safely so enjoy yourselves. 
-
-<img src="/images/webpage.png" width="500">
-
 I am a microwave engineer with huge passion for technology. I get a kick from tinkering with stuff. In other words, I am, admittedly, a nerd. I am gifted with a highly rational yet imaginative mind. I enjoy exploring boundaries of scientific theories.
 
 This website is my one size fits all platform for sharing and bookmarking stuff.
 
-
-<img src="/images/fire.gif" width="50">
-<img src="/images/fire.gif" width="50">
-<img src="/images/fire.gif" width="50">
-<img src="/images/fire.gif" width="50">
-<img src="/images/fire.gif" width="50">
-<img src="/images/fire.gif" width="50">
-<img src="/images/fire.gif" width="50">
-<img src="/images/fire.gif" width="50">
-<img src="/images/fire.gif" width="50">
 
 <br>
 
