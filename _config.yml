@@ -23,16 +23,16 @@ footerImg: /images/laptop.gif
 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-copyright: All rights reserved. 2019.
+copyright: All rights reserved 2019
 #developed: This website is powered by Jekyll.
 
 
 permalink: /:categories/:year-:month-:day-:title/
 
 header_pages:
- - "about.md"
  - "engineering/engineering.md"
  - "life/life.md"
+ - "about.md"
 
 
 minima:

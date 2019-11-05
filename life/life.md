@@ -3,17 +3,13 @@ layout: page
 title: Life
 permalink: /life/
 ---
-
-> The unexamined life is not worth living.
-> -Plato
-
 <figure>
-	<img src="/images/fisher.jpg" width="300">
-	<figcaption> Something about <a href="https://commons.wikimedia.org/wiki/File:Leighton-The_Fisherman_and_the_Syren-c._1856-1858.jpg">TFS</a> inspires me. 
-	</figcaption>
+	<img src="/images/fisher.jpg" width="300"> 
 </figure>
+I am gifted with a highly rational yet imaginative mind. I am into modern, contemporary, hip-hop and pretty much all kinds of dance. I am passionate about the art of human connection; Let's dive deep and be authentically vulnerable with each other.
 
-Here are links to all blogposts related to my life philosophy: 
+<br>
+Blogposts related to my life philosophy: 
 
 
 

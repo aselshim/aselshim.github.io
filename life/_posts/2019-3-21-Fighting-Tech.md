@@ -5,11 +5,7 @@ tags: hacks
 ---
 
 
-
-> There is a fine line that separates between using technology for our advantage and letting technology take over our lives. Life is too short to waste it waiting for the next notification.
-
-
-<img src="/images/loading.gif" width="200">
+ There is a fine line that separates between using technology for our advantage and letting technology take over our lives. Life is too short to waste it waiting for the next notification.
 
 
 *For more, check my LinkedIn article about*

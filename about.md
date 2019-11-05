@@ -1,20 +1,17 @@
 ---
 layout: page
-title: About
+title: Coordinates
 ---
-### My coordinates: 
               
 ![Profile picture](/images/my-photo.png)
 
-I am a microwave engineer with huge passion for technology. I get a kick from tinkering with stuff. In other words, I am, admittedly, a nerd. I am gifted with a highly rational yet imaginative mind. I enjoy exploring boundaries of scientific theories. 
+I currently reside in Austin TX. Where I work full-time for Silicon Laboratories. I also, from time time, would take part-time lecturing positions at UT Austin.
 
 
 
-### Hit me up:   
-- email: assem.elsheemy at gmail.com
-- github: [aselshim](https://github.com/aselshim)
-- reddit: Assem_131
-- linkedIn: [Asem Elshimi](https://www.linkedin.com/in/asem-elshimi-2359a510b)
-
-
-Work: 400 W Cesar Chavez, Austin TX 78701, USA.
+* Contact info:   
+	- github: [aselshim](https://github.com/aselshim)
+	- reddit: assem_131
+	- linkedIn: [Asem Elshimi](https://www.linkedin.com/in/asem-elshimi-2359a510b)
+	- email: assem.elsheemy at gmail.com
+	- work address: 400 W Cesar Chavez, Austin TX 78701, USA.

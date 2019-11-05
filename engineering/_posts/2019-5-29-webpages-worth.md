@@ -5,15 +5,16 @@ title: Personal webpages worth checking
 
 Some quality personal webpages that are worth checking:
 
-## Andrew Waldron: 
-A mathematics professor at UC Davis. The theme of his website is unbeatable! Guess who inspired me to make my website super retro like it is: [www.math.ucdavis.edu/~wally/](https://www.math.ucdavis.edu/~wally/)
+### Andrew Waldron: 
+A mathematics professor at UC Davis. The theme of his website is unbeatable: [www.math.ucdavis.edu/~wally/](https://www.math.ucdavis.edu/~wally/)
 
-## Peter Norvig: 
+### Peter Norvig: 
 Easily a genius sharing some cool stuff with us. We are so lucky: [norvig.com/](http://norvig.com/)
 (Also, his Python stuff are super helpful.)
 
-## Analog Zoo:
+### Analog Zoo:
 Super fun electrical engineering projects: [http://www.analogzoo.com/](http://www.analogzoo.com/)
 
-## Scott Aaronson:
+### Scott Aaronson:
 Scott Aaronson's blog where he shares exciting stuff about quantum computing: [https://www.scottaaronson.com/](https://www.scottaaronson.com/)
+
