@@ -19,7 +19,7 @@ Links to Engineering, mathematics and science posts:
 
 	  <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-          <a class="post-link" href="{{ post.url | relative_url }}"> <span class="post-meta">{{ post.date | strip_newlines | date: date_format  }}==> </span>
+          <a class="post-link" href="{{ post.url | relative_url }}"> <span class="post-meta">{{ post.date | strip_newlines | date: date_format  }} : </span>
             {{ post.title | strip_newlines}}</a>
 
         

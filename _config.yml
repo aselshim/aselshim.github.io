@@ -36,7 +36,7 @@ header_pages:
 
 
 minima:
-  date_format: "%Y %b %-d"
+  date_format: "%Y-%b-%d"
 
   # generate social links in footer
   social_links:
