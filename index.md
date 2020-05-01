@@ -15,6 +15,8 @@ I am a microwave engineer. I get a kick from tinkering with stuff. I enjoy explo
 
 	* [The art of soldering from a design engineer’s perspective](https://www.electronicproducts.com/Education/Career/The_art_of_soldering_from_a_design_engineer_s_perspective.aspx)
 
+	* [Easing the Impact of COVID-19 with IoT Technology](https://www.silabs.com/community/blog.entry.html/2020/05/01/easing_the_impactofcovid-19withiottechnology-KCUs)
+	
 	* [Make sense of antenna design and matching networks](https://www.edn.com/make-sense-of-antenna-design-and-matching-networks/)
 
 	* [Python vs. Matlab for Electrical Engineers](https://www.eeweb.com/profile/asemelshimi/articles/python-vs-matlab-for-electrical-engineers)
@@ -22,8 +24,12 @@ I am a microwave engineer. I get a kick from tinkering with stuff. I enjoy explo
 	* [Maxwell’s equations: An intuitive view for engineers](https://www.powerelectronictips.com/intuitive-view-of-maxwells-equations-faq/)
 
 	* [Understanding the electromagnetics of real capacitors](https://www.powerelectronictips.com/understanding-electromagnetics-real-capacitors/)
+	
+	* [Online happy hours](https://www.linkedin.com/pulse/online-happy-hours-asem-elshimi/?published=t)
 
 	* [Fighting tech addiction](https://www.linkedin.com/pulse/yet-another-post-against-tech-addiction-asem-elshimi/ "article on linkedIn")
+	
+	* [Thought provoking IoT blogs from 2019](https://internetofthingsagenda.techtarget.com/feature/Thought-provoking-IoT-blogs-from-2019)
 
 
 <hr>
