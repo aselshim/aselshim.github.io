@@ -9,12 +9,12 @@ On a cool quarantine evening, I started realizing the need for a one place fits 
 ### Priorities:
 * Execute with excellence on my current work goals.
 	* Engineering tasks and development.
-	* Editing/articles and educating self on the industry.
+	* Editing/articles and learning about the industry.
 	* Marketing opportunities and connections.
 * Identify potential growth opportunities.
-	* Expanding professional connections.
 	* Reading reading reading.
 	* Curious about enterprenueral and business ownership.
+	* Expand professional network (befriend driven individuals.)
 * Polish my creative outlets.
 	* Pole dance.
 	* Electronic music.
@@ -38,9 +38,9 @@ On a cool quarantine evening, I started realizing the need for a one place fits 
 ### Principles:
 
 
-### vision:
+### Vision:
 
-### books to read:
+### Books to read:
 * The patterning instinct.
 * The order of time.
 * Nueromarketting.
