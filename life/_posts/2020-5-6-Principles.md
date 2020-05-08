@@ -27,7 +27,7 @@ On a cool quarantine evening, I started realizing the need for a one place fits 
 
 
 ### Execution:
-* Reform the idea of 9:5 workday into a cyclic play-whenever/work-whenever whenever policy.
+* Reform the idea of 9:5 workday into a cyclic play-whenever/work-whenever mindset.
 * Become a better attendee (take notes, Ask questions, prepare for a quiz.)
 * Invest in reading thought vision books.
 * Investigate doing an MBA.
@@ -36,9 +36,14 @@ On a cool quarantine evening, I started realizing the need for a one place fits 
 
 	
 ### Principles:
+* Be the change you want to see in the world.
+* Whenever possible, say YES.
+* Be genuinely curious about other humans.
 
 
 ### Vision:
+* 
+
 
 ### Books to read:
 * The patterning instinct.
