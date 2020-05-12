@@ -4,9 +4,8 @@ title: Meaningful questions
 tags: life goals and vision
 ---
 
-My friend [Molly Balloons](http://www.mollyballoons.party/) once asked me "Asem, what is an unappealing thing about you?" 
-Her question was good because it is new, no one ever asked me that before. And this question made me want to come up with more meaningful questions!
-I have been working since then on my collection of questions. I have, since then, been growing the list and refining it. On this page, I will be sharing my meaningful questions bank. Please don't hesitate to share your good questions with me. 
+My friend [Molly Balloons](http://www.mollyballoons.party/) once asked me "Asem, what is something unappealing about you?" 
+Besides being a funny question, it also gave em the stage to talk about myself for a minute. I also liked this question because it is new and I had to improvise the answer. I have been working, since then, on my collection of questions. I have been growing the list and refining it. On this page, I will be sharing my bank of meaningful questions. Please don't hesitate to share your good questions with me. 
 
 
 PS: in case you are curious, my answer was that I have a wart in my right hand. It is gone now and it is safe to shake hands with me.
