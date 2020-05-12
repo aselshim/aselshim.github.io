@@ -8,12 +8,15 @@ On a cool quarantine evening, I started realizing the need for a one place fits 
 
 ### Priorities:
 * Execute with excellence on my current work goals.
-	* Engineering tasks and development.
+	* Become the best engineer I can be.
+		* Continous learning.
+		* Execute my tasks effectively.
+		* Offer and provide my knowledge and support.
 	* Editing/articles and learning about the industry.
 	* Marketing opportunities and connections.
 * Identify potential growth opportunities.
 	* Reading reading reading.
-	* Curious about enterprenueral and business ownership.
+	* Curious about entrepreneurial and business ownership.
 	* Expand professional network (befriend driven individuals.)
 * Polish my creative outlets.
 	* Pole dance.
@@ -22,33 +25,38 @@ On a cool quarantine evening, I started realizing the need for a one place fits 
 	* Travel, see the world and meet new people.
 * Expand my capacity for human connection.
 	* Making and sustaining friendships.
-	* Psychological/behaviourial patterns.
+	* Psychological/behavioral patterns.
 	* Support family and friends.
 
 
 ### Execution:
 * Reform the idea of 9:5 workday into a cyclic play-whenever/work-whenever mindset.
-* Become a better attendee (take notes, Ask questions, prepare for a quiz.)
+* Become a better attendee (take notes, ask questions, prepare for a quiz.)
 * Invest in reading thought vision books.
 * Investigate doing an MBA.
 * Maintain this webpage.
 
+### Actionable items:
+* For the next months:
+	* Attend at least one review/week, and ask at least one question.
+	* Call a coworker and a connection at least once per week.
 
 	
 ### Principles:
-* Be the change you want to see in the world.
 * Whenever possible, say YES.
-* Be genuinely curious about other humans.
+* Be the change you want to see in the world.
+* There is something extremely lovable about every human.
 
 
 ### Vision:
-* 
+* Make a positive socio-economic impact.
+* Become everyone's best audience.
 
 
 ### Books to read:
 * The patterning instinct.
 * The order of time.
-* Nueromarketting.
+* Neuromarketing.
 * Finish reading "On the Road."
 * Impro.
 * The little book of common sense investment.
@@ -56,5 +64,7 @@ On a cool quarantine evening, I started realizing the need for a one place fits 
 
 ### Courses to take
 * Corporate finance.
-* Marketting courses.
+* Marketing courses.
 * Corporate strategy.
+
+
