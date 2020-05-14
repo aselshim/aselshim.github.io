@@ -45,6 +45,7 @@ On a cool quarantine evening, I started realizing the need for a one place fits 
 	
 ### Principles:
 * Whenever possible, say YES.
+* an unexamined life is not worth living.
 * Be the change you want to see in the world.
 * There is something extremely lovable about every human being.
 
