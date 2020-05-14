@@ -14,6 +14,7 @@ On a cool quarantine evening, I started realizing the need for a one place fits 
 		* Offer and provide my knowledge and support.
 	* Editing/articles and learning about the industry.
 	* Marketing opportunities and connections.
+	* Learn data visualization.
 * Identify potential growth opportunities.
 	* Reading reading reading.
 	* Curious about entrepreneurial and business ownership.
@@ -45,12 +46,12 @@ On a cool quarantine evening, I started realizing the need for a one place fits 
 ### Principles:
 * Whenever possible, say YES.
 * Be the change you want to see in the world.
-* There is something extremely lovable about every human.
+* There is something extremely lovable about every human being.
 
 
 ### Vision:
 * Make a positive socio-economic impact.
-* Become everyone's best audience.
+* Master self, and master connection to others.
 
 
 ### Books to read:
@@ -63,6 +64,7 @@ On a cool quarantine evening, I started realizing the need for a one place fits 
 * A history of the world in seven cheap things -- Jason Moore
 
 ### Courses to take
+* Data visualization.
 * Corporate finance.
 * Marketing courses.
 * Corporate strategy.
