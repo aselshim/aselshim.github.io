@@ -6,7 +6,7 @@ permalink: /life/
 <figure>
 	<img src="/images/fisher.jpg" width="300"> 
 </figure>
-I am gifted with a highly rational yet imaginative mind. I am into modern, contemporary, hip-hop and pretty much all kinds of dance. I am passionate about the art of human connection; Let's dive deep and be authentically vulnerable with each other.
+I am gifted with a highly rational yet imaginative mind. I am into pole and contemporary dance. I believe that every humanbeing is extremely lovable at some level. I have an apetite for philosophy, science, music and math.
 
 <br>
 Blogposts related to my life philosophy: 
