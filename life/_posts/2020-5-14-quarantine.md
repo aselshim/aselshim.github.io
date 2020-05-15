@@ -5,7 +5,7 @@ tags: life goals and vision
 ---
 
 
-<img src="freudoffice.jpg" width="500">
+<img src="/images/freudoffice.jpg" width="500">
 
 
 This post is a gift to my dear friend [Madeeha Mian](https://www.instagram.com/xmadeeha/?hl=en). She has been surfing my website over the past few days and this in itself is encouraging for me to post more. Also, she has played a pivotal role in forming the philosophy I am about to unveil in this post.
