@@ -38,10 +38,13 @@ On a cool quarantine evening, I started realizing the need for a one place fits 
 * Maintain this webpage.
 
 ### Actionable items:
-* For the next months:
+* Experiment with waking up at Dawn for a week
+* For the next month:
 	* Attend at least one review/week, and ask at least one question.
 	* Call a coworker and a connection at least once per week.
-
+* Take LinkedIn course:
+	* Marketting.
+	* Data visualization.
 	
 ### Principles:
 * Whenever possible, say YES.
@@ -58,16 +61,11 @@ On a cool quarantine evening, I started realizing the need for a one place fits 
 ### Books to read:
 * The patterning instinct.
 * The order of time.
-* Neuromarketing.
 * Finish reading "On the Road."
 * Impro.
 * The little book of common sense investment.
 * A history of the world in seven cheap things -- Jason Moore
 
-### Courses to take
-* Data visualization.
-* Corporate finance.
-* Marketing courses.
-* Corporate strategy.
+
 
 

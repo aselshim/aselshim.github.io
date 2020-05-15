@@ -10,7 +10,7 @@ So I was thinking this morning how the solitary nature of Quarantine, viewed wit
 
 Great philosophers (and artists it seems) used solitude to reach their esoteric heights and inform the world on the human condition. Nietzche and Kant are two good examples. Just reading about their lifestyle elevated my spirit and made me want to get more disciplined.
 
-http://meaningring.com/2015/04/17/daily-rituals-kant-by-mason-currey/ 
+[http://www.openculture.com/2013/10/the-daily-habits-of-highly-productive-philosophers.html](The Daily Habits of Highly Productive Philosophers: Nietzsche, Marx & Immanuel Kant)
 
 
 Younger (than now) Asem has experimented with solitude and shelter-in-place. At the age of 19, I pondered upon the possible outcomes of the self-sanctuary experiment. I decided to quit social media and stop hanging out with people unless necessary for an entire summer. I read numerous books on Islamic and Arabic history. I learned a lot about Western philosophy. I studied, as in self-studied, engineering material that I was extremely curious about. I got into the consistent habit of working out. During that time, I have established a life-long tradition of knowledge-seeking and learning. I unlocked a deeper sense of discipline that I count on whenever I need it.
