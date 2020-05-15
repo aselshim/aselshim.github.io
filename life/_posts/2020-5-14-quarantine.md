@@ -4,16 +4,13 @@ title: Quarantine Priviliges
 tags: life goals and vision
 ---
 
-
-<img src="/images/freudoffice.jpg" width="500">
-
-
 This post is a gift to my dear friend [Madeeha Mian](https://www.instagram.com/xmadeeha/?hl=en). She has been surfing my website over the past few days and this in itself is encouraging for me to post more. Also, she has played a pivotal role in forming the philosophy I am about to unveil in this post.
 
 So I was thinking this morning how the solitary nature of Quarantine, viewed with a healthy mindset, can be one of the best opportunities our generation (millennials) ever had. Solitude will unlock creativity, ideas and will accelerate your progress towards your vision. All you gotta do is to choose goals that are in line with the fact that you are mostly by yourself.
 
 Great philosophers (and artists it seems) used solitude to reach their esoteric heights and inform the world on the human condition. Nietzche and Kant are two good examples. Just reading about their lifestyle elevated my spirit and made me want to get more disciplined.
 
+<img src="/images/freudoffice.jpg" width="500">
 [The Daily Habits of Highly Productive Philosophers: Nietzsche, Marx & Immanuel Kant](http://www.openculture.com/2013/10/the-daily-habits-of-highly-productive-philosophers.html)
 
 Younger (than now) Asem has experimented with solitude and shelter-in-place. At the age of 19, I pondered upon the possible outcomes of a self-sanctuary experiment. I quit social media and stopped hanging out with people unless necessary for an entire summer. I read numerous books on the history of Islam and the Arabs. I learned a lot about Western philosophy. I studied (as in self-studied) engineering material to satiate my curiousity. I started working out consistently. During that period, I established a life-long tradition of knowledge-seeking and learning. I unlocked a deeper sense of discipline in myself. 
