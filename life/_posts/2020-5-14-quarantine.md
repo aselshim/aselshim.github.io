@@ -4,7 +4,7 @@ title: Quarantine Priviliges
 tags: life goals and vision
 ---
 
-This post is a gift to my dear friend [Madeeha Mian](https://www.instagram.com/xmadeeha/?hl=en). She has been surfing my website over the past few days and this in itself is encouraging for me to post more. Also, she has played a pivotal role in forming the philosophy I am about to unveil in this post.
+This post is a gift to my dear friend [Madeeha Mian](https://www.instagram.com/xmadeeha/?hl=en). She has been surfing my website over the past few days and this is encouraging me to post more. She also played a pivotal role in forming the philosophy of post.
 
 So I was thinking this morning how the solitary nature of Quarantine, viewed with a healthy mindset, can be one of the best opportunities our generation (millennials) ever had. Solitude will unlock creativity, ideas and will accelerate your progress towards your vision. All you gotta do is to choose goals that are in line with the fact that you are mostly by yourself.
 
