@@ -16,4 +16,4 @@ git push
 
 echo "script completed successfully"
 
-echo "An unexamined life is not worth living, babe"
+echo "An unexamined life is not worth living, bebe"
