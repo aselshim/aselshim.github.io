@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Priorities and principles
+title: Priorities 
 tags: life goals and vision
 ---
 
@@ -25,6 +25,7 @@ On a cool quarantine evening, I started realizing the need for a one place fits 
 	* Comedy improv and theatre.
 	* Travel, see the world and meet new people.
 * Expand my capacity for human connection.
+	* Quality control of socializing time.
 	* Making and sustaining friendships.
 	* Psychological/behavioral patterns.
 	* Support family and friends.
@@ -34,7 +35,6 @@ On a cool quarantine evening, I started realizing the need for a one place fits 
 * Reform the idea of 9:5 workday into a cyclic play-whenever/work-whenever mindset.
 * Become a better attendee (take notes, ask questions, prepare for a quiz.)
 * Invest in reading thought vision books.
-* Investigate doing an MBA.
 * Maintain this webpage.
 
 ### Actionable items:
@@ -42,20 +42,14 @@ On a cool quarantine evening, I started realizing the need for a one place fits 
 * For the next month:
 	* Attend at least one review/week, and ask at least one question.
 	* Call a coworker and a connection at least once per week.
+
+	
+### Learning:
+* Learn chinese
 * Take LinkedIn course:
 	* Marketting.
 	* Data visualization.
-	
-### Principles:
-* Whenever possible, say YES.
-* an unexamined life is not worth living.
-* Be the change you want to see in the world.
-* There is something extremely lovable about every human being.
-
-
-### Vision:
-* Make a positive socio-economic impact.
-* Master self, and master connection to others.
+* Investigate doing an MBA.
 
 
 ### Books to read:

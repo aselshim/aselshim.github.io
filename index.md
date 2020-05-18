@@ -11,12 +11,14 @@ I am a hardware design engineer. I get a kick from tinkering with stuff. I enjoy
 <hr>
 <br>
 
-* Articles:
+* Publications:
 
 	* [Doing good with the IoT](https://internetofthingsagenda.techtarget.com/blog/IoT-Agenda/Doing-good-with-IoT-to-overcome-utility-challenges)
 
 	* [The art of soldering from a design engineer’s perspective](https://www.electronicproducts.com/Education/Career/The_art_of_soldering_from_a_design_engineer_s_perspective.aspx)
 
+	* [How IoT Can Help Control Pandemic](https://www.eetimes.com/how-iot-can-help-control-pandemic/?sf233705222=1)
+	
 	* [Easing the Impact of COVID-19 with IoT Technology](https://www.silabs.com/community/blog.entry.html/2020/05/01/easing_the_impactofcovid-19withiottechnology-KCUs)
 	
 	* [Make sense of antenna design and matching networks](https://www.edn.com/make-sense-of-antenna-design-and-matching-networks/)
