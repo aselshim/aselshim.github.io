@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![Wlcome](/images/webpage.png)
+![Welcome](/images/webpage.png)
 
 I am a hardware design engineer. I get a kick from tinkering with stuff. I enjoy exploring boundaries of scientific theories. I belive that everyone is morally obliged to make sure their work is having the best impact on others and on the planet. The thesis of my life and work is to see peers and leaders acting upon this belief.
 <hr>
