@@ -14,11 +14,11 @@ On a cool quarantine evening, I started realizing the need for a one place fits 
 		* Offer and provide my knowledge and support.
 	* Editing/articles and learning about the industry.
 	* Marketing opportunities and connections.
-	* Learn data visualization.
 * Identify potential growth opportunities.
 	* Reading reading reading.
 	* Curious about entrepreneurial and business ownership.
 	* Expand professional network (befriend driven individuals.)
+	* Learn data visualization.
 * Polish my creative outlets.
 	* Pole dance.
 	* Electronic music.
@@ -29,23 +29,27 @@ On a cool quarantine evening, I started realizing the need for a one place fits 
 	* Making and sustaining friendships.
 	* Psychological/behavioral patterns.
 	* Support family and friends.
+* Learn Mandarin 官话.
 
 
 ### Execution:
+* Experiment with waking up at Dawn for a week.
 * Reform the idea of 9:5 workday into a cyclic play-whenever/work-whenever mindset.
+
+* Send ideas and articles to network
+* Send articles and ideas to professional network to strengthen connections.
+* Call a coworker and a connection at least once per week.
+
 * Become a better attendee (take notes, ask questions, prepare for a quiz.)
+* Attend at least one review/week, and ask at least one question.
+
 * Invest in reading thought vision books.
 * Maintain this webpage.
 
-### Actionable items:
-* Experiment with waking up at Dawn for a week
-* For the next month:
-	* Attend at least one review/week, and ask at least one question.
-	* Call a coworker and a connection at least once per week.
 
 	
 ### Learning:
-* Learn chinese
+* Learn Mandarin 官话
 * Take LinkedIn course:
 	* Marketting.
 	* Data visualization.
