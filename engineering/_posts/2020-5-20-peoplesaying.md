@@ -9,11 +9,11 @@ Here are few responses that I have seen here and there
 
 <br>
 
-<img src="/images/AimeeMaxwell.png" width="800">
+<img src="/images/AimeeMaxwell1.png" width="800">
 
 <br>
 
-<img src="/images/MikeAntenna.png" width="500">
+<img src="/images/MikeAntenna1.png" width="500">
 
 <br>
 
