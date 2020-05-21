@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![Welcome](/images/webpage.png)
+<img src="/images/coverPhoto.jpg" width="800">
 
 I am a hardware design engineer. I get a kick from tinkering with stuff. I enjoy exploring boundaries of scientific theories. I belive that everyone is morally obliged to make sure their work is having the best impact on others and on the planet. The thesis of my life and work is to see peers and leaders acting upon this belief.
 <hr>
@@ -19,7 +19,7 @@ I am a hardware design engineer. I get a kick from tinkering with stuff. I enjoy
 
 	* [The art of soldering from a design engineer’s perspective](https://www.electronicproducts.com/Education/Career/The_art_of_soldering_from_a_design_engineer_s_perspective.aspx)
 
-	* [How IoT Can Help Control Pandemic](https://www.eetimes.com/how-iot-can-help-control-pandemic/?sf233705222=1)
+	* [How IoT Can Help Control Pandemic](https://www.eetimes.com/how-iot-can-help-control-pandemic/?sf233705222=1)   [Mandarin translation](https://www.eettaiwan.com/20200521nt71-how-iot-can-help-control-pandemic/)
 	
 	* [Easing the Impact of COVID-19 with IoT Technology](https://www.silabs.com/community/blog.entry.html/2020/05/01/easing_the_impactofcovid-19withiottechnology-KCUs)
 	
