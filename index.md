@@ -11,6 +11,8 @@ I am a hardware design engineer. I get a kick from tinkering with stuff. I enjoy
 <hr>
 <br>
 
+[Check out what are other people saying about Asem's articles!]({{site.url }}/engineering/2020-05-20-peoplesaying/)
+
 * Publications:
 
 	* [Doing good with the IoT](https://internetofthingsagenda.techtarget.com/blog/IoT-Agenda/Doing-good-with-IoT-to-overcome-utility-challenges)
