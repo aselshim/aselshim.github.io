@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Please don't shame "them"
+title: Please Don't Shame "Them"
 tags: life 
 ---
 
