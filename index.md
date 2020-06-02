@@ -12,6 +12,7 @@ I am a hardware design engineer. I get a kick from tinkering with stuff. I enjoy
 <br>
 
 [Check out what are other people saying about Asem's articles!]({{site.url }}/engineering/2020-05-20-peoplesaying/)
+[Check out lost-theory.org](http://lost-theory.org/)
 
 * Publications:
 
