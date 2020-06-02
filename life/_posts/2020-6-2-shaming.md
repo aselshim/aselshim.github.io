@@ -10,7 +10,7 @@ We are going through a sensitive point in history. Infuriating systematic injust
 
 At the heart of my world-view is a belief that we must act on moral necessity. Every decision we make, no matter how small, impacts others and the planet. And more so, it impacts ourselves. If we are the agents of change and if we are to do good in this world, we are ought to grow enough resilience and power in ourselves. This is how we induce a positive change in this world. In short, no matter how small action is; It has an impact and it has to be considered in the moral court of each self. This becomes obvious during pandemics or global outrageous movements. And I hope we remember this as things cool down once we are back to normal (which is going to be a new normal anyway.) This explains why I felt so proud of Americans marching the streets of Austin peacefully last Sunday. Everyone was in the right place doing the right thing.
 
-<img src="/images/2020georgefloyd.jpg" width="500">
+<img src="/images/2020georgefloyd.jpg" width="700">
 
 The path to progress is not a one-way street. Let's accept each other's approach.
 
