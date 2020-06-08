@@ -1,12 +1,12 @@
 ---
 layout: post
-title: POEM: Our Memories Are Not So Vivid
+title: Our Memories Are Not So Vivid
 tags: life 
 ---
 
 
 
-<img src="/images/memories.jpg" width="700">
+<img src="/images/memories.jpg" width="500">
 
 And all the struggles that weigh on your heart right now,
 All the stressful affairs that keep your mind racing
