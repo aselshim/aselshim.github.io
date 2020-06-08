@@ -20,8 +20,7 @@ On a cool quarantine evening, I started realizing the need for a one place fits 
 	* Expand professional network (befriend driven individuals.)
 	* Learn data visualization.
 * Polish my creative outlets.
-	* Pole dance.
-	* Electronic music.
+	* Performance arts.
 	* Comedy improv and theatre.
 	* Travel, see the world and meet new people.
 * Expand my capacity for human connection.
@@ -33,7 +32,7 @@ On a cool quarantine evening, I started realizing the need for a one place fits 
 
 
 ### Execution:
-* Experiment with waking up at Dawn for a week.
+* Wake up at Dawn at least twice a week.
 * Reform the idea of 9:5 workday into a cyclic play-whenever/work-whenever mindset.
 
 * Send ideas and articles to network
@@ -57,8 +56,8 @@ On a cool quarantine evening, I started realizing the need for a one place fits 
 
 
 ### Books to read:
-* The patterning instinct.
 * The order of time.
+* Schrodinger's what is life
 * Finish reading "On the Road."
 * Impro.
 * The little book of common sense investment.
