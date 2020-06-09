@@ -20,6 +20,8 @@ I am a hardware design engineer. I get a kick from tinkering with stuff. I enjoy
 
 	* [The art of soldering from a design engineer’s perspective](https://www.electronicproducts.com/Education/Career/The_art_of_soldering_from_a_design_engineer_s_perspective.aspx)
 
+	* [Bluetooth bracelets are an identity-blind option for digital contact tracing](https://venturebeat.com/2020/06/06/bluetooth-bracelets-are-an-identity-blind-option-for-digital-contact-tracing/)
+	
 	* [How IoT Can Help Control Pandemic](https://www.eetimes.com/how-iot-can-help-control-pandemic/?sf233705222=1)   [Mandarin translation](https://www.eettaiwan.com/20200521nt71-how-iot-can-help-control-pandemic/)
 	
 	* [Easing the Impact of COVID-19 with IoT Technology](https://www.silabs.com/community/blog.entry.html/2020/05/01/easing_the_impactofcovid-19withiottechnology-KCUs)
