@@ -35,7 +35,7 @@ On a cool quarantine evening, I started realizing the need for a one place fits 
 * Wake up at Dawn at least twice a week.
 * Reform the idea of 9:5 workday into a cyclic play-whenever/work-whenever mindset.
 
-* Send ideas and articles to network
+* Send ideas and articles to network.
 * Send articles and ideas to professional network to strengthen connections.
 * Call a coworker and a connection at least once per week.
 
