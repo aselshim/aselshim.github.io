@@ -11,8 +11,6 @@ I am a hardware design engineer. I get a kick from tinkering with stuff. I enjoy
 <hr>
 <br>
 
-[Check out what are other people saying about Asem's articles!]({{site.url }}/engineering/2020-05-20-peoplesaying/)
-[Check out lost-theory.org](http://lost-theory.org/)
 
 * Publications:
 
@@ -21,6 +19,8 @@ I am a hardware design engineer. I get a kick from tinkering with stuff. I enjoy
 	* [The art of soldering from a design engineer’s perspective](https://www.electronicproducts.com/Education/Career/The_art_of_soldering_from_a_design_engineer_s_perspective.aspx)
 
 	* [Bluetooth bracelets are an identity-blind option for digital contact tracing](https://venturebeat.com/2020/06/06/bluetooth-bracelets-are-an-identity-blind-option-for-digital-contact-tracing/)
+	
+	* [How Isolation Technology Enables Energy Sustainability](https://www.powersystemsdesign.com/articles/how-isolation-technology-enables-energy-sustainability/22/16529)
 	
 	* [How IoT Can Help Control Pandemic](https://www.eetimes.com/how-iot-can-help-control-pandemic/?sf233705222=1)   [Mandarin translation](https://www.eettaiwan.com/20200521nt71-how-iot-can-help-control-pandemic/)
 	

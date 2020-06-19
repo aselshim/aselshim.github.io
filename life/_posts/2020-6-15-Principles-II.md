@@ -30,6 +30,7 @@ This is an updated priorities list based on the state of affairs of summer 2020.
 
 ### Books to Read:
 * Schrodinger's what is life
+* Fourweekmba business model explanation
 * Finish reading "On the Road."
 * Impro.
 * The little book of common sense investment.
