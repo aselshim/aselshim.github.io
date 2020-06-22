@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Life
+title: Priorities
 permalink: /priorities/
 ---
 
@@ -13,7 +13,7 @@ Congrats, you found a hidden gem on my personal webpage.
 
 
 {% for category in site.categories %}
-  {% if category[0] == "life" %}
+  {% if category[0] == "priorities" %}
 
   <ul>
     {% for post in category[1] %}
