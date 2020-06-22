@@ -6,7 +6,7 @@ tags: life
 
 
 
-<img src="/images/mountain.jpg" width="500">
+<img src="/images/mountain.jpg" width="700">
 
 One day, I am obsessed with words. I think that's god. 
 The most precise time-machine to this day is the past tense, you see.
