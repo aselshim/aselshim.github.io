@@ -22,7 +22,7 @@ I am a hardware design engineer. I get a kick from tinkering with stuff. I enjoy
 	
 	* [How Isolation Technology Enables Energy Sustainability](https://www.powersystemsdesign.com/articles/how-isolation-technology-enables-energy-sustainability/22/16529)
 	
-	* [How IoT Can Help Control Pandemic](https://www.eetimes.com/how-iot-can-help-control-pandemic/?sf233705222=1)   [Mandarin translation](https://www.eettaiwan.com/20200521nt71-how-iot-can-help-control-pandemic/)
+	* [How IoT Can Help Control Pandemic](https://www.eetimes.com/how-iot-can-help-control-pandemic/?sf233705222=1)   [(Mandarin translation)](https://www.eettaiwan.com/20200521nt71-how-iot-can-help-control-pandemic/)
 	
 	* [Easing the Impact of COVID-19 with IoT Technology](https://www.silabs.com/community/blog.entry.html/2020/05/01/easing_the_impactofcovid-19withiottechnology-KCUs)
 	
