@@ -18,3 +18,6 @@ Super fun electrical engineering projects: [http://www.analogzoo.com/](http://ww
 ### Scott Aaronson:
 Scott Aaronson's blog where he shares exciting stuff about quantum computing: [https://www.scottaaronson.com/](https://www.scottaaronson.com/)
 
+### EriK Meeks:
+Erik is a traveller and photographer. Through his lens, you get to see the beauty of the American Continent. [Webpage](https://roughingitkinda.com/)
+

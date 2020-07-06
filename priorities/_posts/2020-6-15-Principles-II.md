@@ -31,12 +31,14 @@ This is an updated priorities list based on the state of affairs of summer 2020.
 ### Books to Read:
 * Schrodinger's what is life
 * Fourweekmba business model explanation
-* Finish reading "On the Road."
 * Impro.
 * The little book of common sense investment.
 * A history of the world in seven cheap things -- Jason Moore
 * Pandemic.
+* Go Tell It on the Mountain by James Baldwin
 * Brave new world.
-
+* Dao de Jing.
+* The Tao of physics
+* Systems view of life
 
 
