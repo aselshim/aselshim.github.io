@@ -11,6 +11,10 @@ I am a hardware design engineer. I get a kick from tinkering with stuff. I enjoy
 <hr>
 <br>
 
+Find my poetry here: 
+
+<hr>
+<br>
 
 * Publications:
 
