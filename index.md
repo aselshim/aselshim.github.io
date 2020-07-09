@@ -11,44 +11,44 @@ I am a hardware design engineer. I get a kick from tinkering with stuff. I enjoy
 <hr>
 <br>
 
-[Find my poetry here.](https://aselshim.github.io/life/2020-07-09-Poetry/)
+* Quick Links:
+	* [Find my poetry here.](https://aselshim.github.io/life/2020-07-09-Poetry/)
+	
+	* Teaching: 
+		* [Introduction to Python, EE 108S  UT Austin  Spring 2019]({{site.url }}/engineering/teaching/utee108s/)
+	
+	* Publications:
+
+		* [Doing good with the IoT](https://internetofthingsagenda.techtarget.com/blog/IoT-Agenda/Doing-good-with-IoT-to-overcome-utility-challenges)
+
+		* [The art of soldering from a design engineer’s perspective](https://www.electronicproducts.com/Education/Career/The_art_of_soldering_from_a_design_engineer_s_perspective.aspx)
+
+		* [Bluetooth bracelets are an identity-blind option for digital contact tracing](https://venturebeat.com/2020/06/06/bluetooth-bracelets-are-an-identity-blind-option-for-digital-contact-tracing/)
+	
+		* [How Isolation Technology Enables Energy Sustainability](https://www.powersystemsdesign.com/articles/how-isolation-technology-enables-energy-sustainability/22/16529)
+	
+		* [How IoT Can Help Control Pandemic](https://www.eetimes.com/how-iot-can-help-control-pandemic/?sf233705222=1)   [(Mandarin translation)](https://www.eettaiwan.com/20200521nt71-how-iot-can-help-control-pandemic/)
+	
+		* [Easing the Impact of COVID-19 with IoT Technology](https://www.silabs.com/community/blog.entry.html/2020/05/01/easing_the_impactofcovid-19withiottechnology-KCUs)
+	
+		* [Make sense of antenna design and matching networks](https://www.edn.com/make-sense-of-antenna-design-and-matching-networks/)
+
+		* [Python vs. Matlab for Electrical Engineers](https://www.eeweb.com/profile/asemelshimi/articles/python-vs-matlab-for-electrical-engineers)
+
+		* [Maxwell’s equations: An intuitive view for engineers](https://www.powerelectronictips.com/intuitive-view-of-maxwells-equations-faq/)
+
+		* [Understanding the electromagnetics of real capacitors](https://www.powerelectronictips.com/understanding-electromagnetics-real-capacitors/)
+	
+		* [Online happy hours](https://www.linkedin.com/pulse/online-happy-hours-asem-elshimi/?published=t)
+
+		* [Fighting tech addiction](https://www.linkedin.com/pulse/yet-another-post-against-tech-addiction-asem-elshimi/ "article on linkedIn")
+	
+		* [Thought provoking IoT blogs from 2019](https://internetofthingsagenda.techtarget.com/feature/Thought-provoking-IoT-blogs-from-2019)
+
 
 <hr>
 <br>
 
-* Publications:
-
-	* [Doing good with the IoT](https://internetofthingsagenda.techtarget.com/blog/IoT-Agenda/Doing-good-with-IoT-to-overcome-utility-challenges)
-
-	* [The art of soldering from a design engineer’s perspective](https://www.electronicproducts.com/Education/Career/The_art_of_soldering_from_a_design_engineer_s_perspective.aspx)
-
-	* [Bluetooth bracelets are an identity-blind option for digital contact tracing](https://venturebeat.com/2020/06/06/bluetooth-bracelets-are-an-identity-blind-option-for-digital-contact-tracing/)
-	
-	* [How Isolation Technology Enables Energy Sustainability](https://www.powersystemsdesign.com/articles/how-isolation-technology-enables-energy-sustainability/22/16529)
-	
-	* [How IoT Can Help Control Pandemic](https://www.eetimes.com/how-iot-can-help-control-pandemic/?sf233705222=1)   [(Mandarin translation)](https://www.eettaiwan.com/20200521nt71-how-iot-can-help-control-pandemic/)
-	
-	* [Easing the Impact of COVID-19 with IoT Technology](https://www.silabs.com/community/blog.entry.html/2020/05/01/easing_the_impactofcovid-19withiottechnology-KCUs)
-	
-	* [Make sense of antenna design and matching networks](https://www.edn.com/make-sense-of-antenna-design-and-matching-networks/)
-
-	* [Python vs. Matlab for Electrical Engineers](https://www.eeweb.com/profile/asemelshimi/articles/python-vs-matlab-for-electrical-engineers)
-
-	* [Maxwell’s equations: An intuitive view for engineers](https://www.powerelectronictips.com/intuitive-view-of-maxwells-equations-faq/)
-
-	* [Understanding the electromagnetics of real capacitors](https://www.powerelectronictips.com/understanding-electromagnetics-real-capacitors/)
-	
-	* [Online happy hours](https://www.linkedin.com/pulse/online-happy-hours-asem-elshimi/?published=t)
-
-	* [Fighting tech addiction](https://www.linkedin.com/pulse/yet-another-post-against-tech-addiction-asem-elshimi/ "article on linkedIn")
-	
-	* [Thought provoking IoT blogs from 2019](https://internetofthingsagenda.techtarget.com/feature/Thought-provoking-IoT-blogs-from-2019)
-
-
-<hr>
-<br>
-* Teaching: 
-	* [Introduction to Python, EE 108S  UT Austin  Spring 2019]({{site.url }}/engineering/teaching/utee108s/)
 
 
 
