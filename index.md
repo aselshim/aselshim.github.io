@@ -11,7 +11,7 @@ I am a hardware design engineer. I get a kick from tinkering with stuff. I enjoy
 <hr>
 <br>
 
-Find my poetry here: 
+[Find my poetry here.](https://aselshim.github.io/life/2020-07-09-Poetry/)
 
 <hr>
 <br>
