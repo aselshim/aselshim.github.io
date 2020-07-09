@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cosmic Meets Marvell
+title: Cosmic Meets Marvel
 tags: life 
 ---
 
@@ -34,4 +34,4 @@ For "here" and "when" are nothing but the wonders you make.
 
 You are what makes the wonders wonderful.
 
-The knot where cosmic meets marvell.
+The knot where cosmic meets marvel.

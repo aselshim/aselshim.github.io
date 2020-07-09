@@ -1,0 +1,180 @@
+---
+layout: post
+title: All my poems in one page
+tags: life 
+---
+
+
+
+<img src="/images/mountain.jpg" width="700">
+
+
+
+# Maybe You | 2020/07/09
+
+And maybe, why the world upsets you,
+
+is you.
+
+Maybe you created this world,
+ 
+and forgot that you did.
+
+Maybe you are the little hard things.
+
+And the big ones too.
+
+The tears, the discomfort,
+
+the heat and the freezing cold.
+
+Couldn't all of that be
+
+just simply, you?
+
+<br>
+<hr>
+
+# Cosmic Meets Marvel | 2020/07/06
+
+Constantly seeking wonders,
+
+while the real wonders are within you.
+
+Can the worlds we see, when we shut our eyes closed, be as real?
+
+For what sets the real from the unreal?
+
+For the men and women wearing coats and working in a lab,
+
+have told me that it is you!
+
+It is you who builds this world, our world,
+
+and all the the other worlds, your fantasies.
+
+You see, my friend, the sky isn't blue until you see it!
+
+Your passion is what sets the fire free.
+
+And, I am only here when you think of me.
+
+For "here" and "when" are nothing but the wonders you make.
+
+You are what makes the wonders wonderful.
+
+The knot where cosmic meets marvel.
+
+<br>
+<hr>
+
+# Thought After Another | 2020/07/06
+
+Your life, to this point
+
+has been a thought after another.
+
+The comforting thoughts and the painful ones.
+
+You finish a thought to start another.
+
+On and on.
+
+From the beginning,
+
+throughout all the patterns,
+
+and on towards the horizon of time,
+
+a thought would always lead to another.
+
+<br>
+<hr>
+# Enough Time? | 2020/07/09
+
+Did you give it enough time?
+
+The tear that went down your cheek.
+
+During that goodbye hug.
+
+A kiss is not enough for a goodbye.
+
+We are those whom we cry when we leave.
+
+If I would choose all the things,
+
+or closeness to whome I miss,
+
+I won't miss anymore.
+
+For, I would only live in the arms of whom I would miss.
+
+<br>
+<hr>
+# The Mountain Gods | 2020/06/22
+One day, I am obsessed with words. I think that's god. 
+The most precise time-machine to this day is the past tense, you see.
+
+And another, I am bowing in great lest to the fire of the burn night. 
+The flow of energy that conceals the secret of life.
+
+Yet another, I think mountains are the divine.
+Pinning the earth to its orbit around the the great god,
+The source of it all, the one and only sun.
+
+The white snow reflects the flaming sunrays onto my cheeks, While my eyes tear up in the sight and glory of the mountain gods.
+My heart falls a thousand times to the bottom of the valley. My soul flows with the blazing valley wind.
+
+The giant ancient trees carry the earth's history in the shapes of their leaves and wood.
+
+Is god in Colorado or Oregon?
+
+I met the god of Colorado today and he told me he has always been here.
+
+My god whom I met in Oregon all the way down to Santa Cruz at the burger stand by the pier had said: 
+"I have never left and will never leave."
+She was streaming with vegitation.
+Warmth and mist are how you know you have met her.
+She has the hills and the rocky beaches.
+She has my heart.
+
+How can god be here and there?
+
+How pagan?
+
+He and she and they and all the names that I worship.
+The names that help me go through every night and bring me to every summit.
+
+I am small.
+
+I am nothing but the smallest hint of the gods' powers.
+
+You too are small.
+
+you and me, even considered togeter, do not matter.
+
+
+<br>
+<hr>
+# Our Memories Are Not So Vivid. | 2020/06/08
+
+And all the struggles that weigh on your heart right now,
+
+All the stressful affairs that keep your mind racing.
+
+Are soon to become a past.
+
+Someone else will have to try hard to remind you of what was once done, said or felt.
+
+For the memory traces of the invlolved present are not so vivid.
+
+For good or for bad,
+
+We barely remember.
+
+So... Why the worry?
+
+While all you gotta do is to let time pass,
+
+And a future full of possibilities will make you smile.
