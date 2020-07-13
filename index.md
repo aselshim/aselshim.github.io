@@ -19,10 +19,16 @@ I am a hardware design engineer. I get a kick from tinkering with stuff. I enjoy
 	
 	* Publications:
 
+		* [Engineering and inclusivity: a safe incubator for diversity](https://www.eeworldonline.com/engineering-and-inclusivity-a-safe-incubator-for-diversity/)
+		
 		* [Doing good with the IoT](https://internetofthingsagenda.techtarget.com/blog/IoT-Agenda/Doing-good-with-IoT-to-overcome-utility-challenges)
 
 		* [The art of soldering from a design engineer’s perspective](https://www.electronicproducts.com/Education/Career/The_art_of_soldering_from_a_design_engineer_s_perspective.aspx)
 
+		* [Hacking Bluetooth for COVID-19 contact tracing](https://www.edn.com/?p=4468894&preview=1&_ppp=76a7f1922f)
+		
+		* [Using privacy-centric Bluetooth bracelets for COVID-19 contact tracing](https://www.edn.com/?p=4468901&preview=1&_ppp=d842545d62)
+		
 		* [Bluetooth bracelets are an identity-blind option for digital contact tracing](https://venturebeat.com/2020/06/06/bluetooth-bracelets-are-an-identity-blind-option-for-digital-contact-tracing/)
 	
 		* [How Isolation Technology Enables Energy Sustainability](https://www.powersystemsdesign.com/articles/how-isolation-technology-enables-energy-sustainability/22/16529)
