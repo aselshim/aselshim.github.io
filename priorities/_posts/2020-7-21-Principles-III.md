@@ -4,22 +4,22 @@ title: Priorities II
 tags: life goals and vision
 ---
 
-This is an updated priorities list based on the state of affairs of summer 2020. 
+This is an updated priorities list based on the state of affairs of July 2020. 
 
 ### Priorities:
-* Execute with excellence on my current work goals.
-	* Execute on engineering tasks.
-	* Work with M.S. team for market transfer.
-	* LGBTQ+ ERG.
-	* Editing/articles and learning about the industry.
-* Travel, see the world and meet new people.
-* Expand my capacity for human connection.
+* Abstinence.
+* Execute on Engineering tasks.
+* Work with M.S. team for market transfer.
+* Apply for moving:
+	* Canada immigration
+	* RF jobs in the UK
+	* ...
+* More:
 	* Making and sustaining friendships.
-	* Expand professional network (befriend driven individuals.)
 	* Psychological/behavioral patterns.
 	* Support family and friends.
-* Learn Mandarin 官话.
-* Reading reading reading.
+	* Learn Mandarin 官话.
+	* Reading reading reading.
 
 ### Work Ethic:
 * Commitment to goals.
