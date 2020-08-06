@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Priorities II
+title: Priorities III
 tags: life goals and vision
 ---
 
@@ -10,7 +10,6 @@ This is an updated priorities list based on the state of affairs of summer 2020.
 * Execute with excellence on my current work goals.
 	* Execute on engineering tasks.
 	* Work with M.S. team for market transfer.
-	* LGBTQ+ ERG.
 	* Editing/articles and learning about the industry.
 * Travel, see the world and meet new people.
 * Expand my capacity for human connection.

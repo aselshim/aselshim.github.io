@@ -26,6 +26,12 @@ I also look forward to masturbation after the challenge is over. I already know 
 
 ---------
 
+7-27-2020
+Over the weekend, I also decided to quit smoking. I played around with nicotine chew. But I can see I am already wary of it.
+I can see the acummulated energy in my heart is making me sharp, yet nervous and angry.
+
+
+---------
 
 
 
