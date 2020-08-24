@@ -18,7 +18,7 @@ This is an updated priorities list based on the state of affairs of August 2020.
 * Offer and provide my knowledge and support.
 	
 ### Life:
-Feed your soul:
+* Feed your soul:
 	* Spiritual practice: Daoism. Quraan. ZEN.
 	* Psychological/behavioral patterns
 	* Support family and friends
