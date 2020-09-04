@@ -30,7 +30,7 @@ copyright: All rights reserved 2019
 permalink: /:categories/:year-:month-:day-:title/
 
 header_pages:
- - "engineering/engineering.md"
+ - "BlogPosts/blogposts.md"
  - "life/life.md"
  - "about.md"
 
