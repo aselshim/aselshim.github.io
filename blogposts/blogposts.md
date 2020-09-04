@@ -37,4 +37,3 @@ All my blogposts:
 
 
 
-<center> Absurdism. Effectiveness. Individualism. <center>
