@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What are people saying about Asem's articles?
+title: What are People Saying About Asem's Articles?
 ---
 
 ## Some reactions from industry leaders and influencers to my work: 
@@ -33,4 +33,13 @@ title: What are people saying about Asem's articles?
 
 <img src="/images/TyssonCap.png" width="500">
 
+<br>
+<hr>
 
+
+<img src="/images/BLESIG.JPG" width="500">
+
+
+<img src="/images/BLESIG2.JPG" width="500">
+<br>
+<hr>
