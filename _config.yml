@@ -30,8 +30,8 @@ copyright: All rights reserved 2019
 permalink: /:categories/:year-:month-:day-:title/
 
 header_pages:
+ - "publications.md"
  - "blogposts/blogposts.md"
- - "life/life.md"
  - "about.md"
 
 
