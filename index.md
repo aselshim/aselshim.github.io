@@ -23,7 +23,7 @@ When you think you are free, you are using your confines (language) to make a st
 <br>
 ### Quick Links:
 * Poems from 2020 summer: [An Emotional Memoir](https://aselshim.github.io/blogposts/2020-07-09-Poetry/)
-* (https://aselshim.github.io/blogposts/2020-05-20-peoplesaying/)[What do people think of my articles?]
+* [What do people think of my articles?](https://aselshim.github.io/blogposts/2020-05-20-peoplesaying/)
 	
 <br>
 <br>
