@@ -4,7 +4,7 @@ title: Publications
 ---
 
 #### Teaching
-* [Introduction to Python, EE 108S ]({{ site.url }}/engineering/teaching/utee108s/) \| UT Austin \| Spring 2019
+* [Introduction to Python, EE 108S ]({{ site.url }}/teaching/utee108s/) \| UT Austin \| Spring 2019
 
 
 #### Thought Leadership
