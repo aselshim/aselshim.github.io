@@ -22,6 +22,8 @@ title: Publications
 
 #### RF Engineering
 
+* [IC Design: Trajectories from the Past and into the Future](https://www.embedded-computing.com/home-page/ic-design-trajectories-from-the-past-and-into-the-future) \| Embedded Computing Design \| September 2020
+
 * [The Art of Soldering from a Design Engineer’s Perspective](https://www.electronicproducts.com/Education/Career/The_art_of_soldering_from_a_design_engineer_s_perspective.aspx) \| Electronic Products \| September 2018
 
 * [Make Sense of Antenna Design and Matching Networks](https://www.edn.com/make-sense-of-antenna-design-and-matching-networks/) \| Electrical Design Network \| May 2020 
