@@ -11,14 +11,17 @@ title: Publications
        
 * [Engineering and Inclusivity: A Safe Incubator for Diversity](https://www.eeworldonline.com/engineering-and-inclusivity-a-safe-incubator-for-diversity/) \| EE World Online \| July 2020	 
 
-* [Bluetooth Cracelets: an Identity-Blind Option for Digital Contact tracing](https://venturebeat.com/2020/06/06/bluetooth-bracelets-are-an-identity-blind-option-for-digital-contact-tracing/) \| Venture Beat \| June 2020	 
-
 * [How Isolation Technology Enables Energy Sustainability](https://www.powersystemsdesign.com/articles/how-isolation-technology-enables-energy-sustainability/22/16529) \| Power Systems Design \| June 2020
 
-* [Doing Good with the IoT](https://internetofthingsagenda.techtarget.com/blog/IoT-Agenda/Doing-good-with-IoT-to-overcome-utility-challenges) \| IoT Agenda \| July 2019
+* [Overcome water and energy challenges with IoT](https://internetofthingsagenda.techtarget.com/blog/IoT-Agenda/Doing-good-with-IoT-to-overcome-utility-challenges) \| IoT Agenda \| July 2019
 
 * [Fighting Tech Addiction](https://www.linkedin.com/pulse/yet-another-post-against-tech-addiction-asem-elshimi/ "article on linkedIn") \| LinkedIn \| September 2018
 
+#### Wireless technology
+
+* [Why Thread network matters in smart home and building designs](https://www.edn.com/all-about-thread-network-and-why-it-matters-in-smart-home-smart-building-designs/) \| Electrical Design Network \| November 2020
+
+* [Bluetooth Bracelets: an Identity-Blind Option for Digital Contact tracing](https://venturebeat.com/2020/06/06/bluetooth-bracelets-are-an-identity-blind-option-for-digital-contact-tracing/) \| Venture Beat \| June 2020	 
 
 #### RF Engineering
 

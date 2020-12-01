@@ -7,9 +7,10 @@ tags: life
 
 
 <img src="/images/fractal.jpg" width="700">
-*Art by [Brandon Gonzalez](http://somaticart.com/Somatic_Art/About.html)"*
 
-To the consciouss mind. 
+*Art by [Brandon Gonzalez](http://somaticart.com/Somatic_Art/About.html)*
+
+To the consciouss mind, 
 
 I am sorry to be the bearer of such news, however, even though you have been trying relentelessly to escape, there is no departure from the material (or rather maternal) world. And this situation can feel like a trap. Yet that is highly dependent on the way you view things. Alternatively, the circumstances of our existence can be celebrated and you can work with us to find a harmonious place within the universe (the maternal world.)
 
