@@ -15,3 +15,10 @@ As a recepient of a tentative request you can: (accept, decline, reschedule)
 An extra possibility could be arranging group hangouts
 This app will be extra useful for people living in different timezones 
 
+
+### Darkside 
+A social media platform centered around sharing struggles and difficulties to encourage authentic conversations rather than the shiny happy selves we present on Instagram
+
+
+### RatedLove
+A hook-up app with rating and reviews. So people are positioned to have mindful fun
