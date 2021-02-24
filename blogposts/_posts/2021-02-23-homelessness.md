@@ -1,0 +1,18 @@
+---
+layout: post
+title: Homelessness as a Manifestation of Systemic Power
+tags: life 
+---
+
+<img src="/images/homelessness.jpg" width="700">
+
+
+Does the establishment directly benefit from homelessness? A punitive spectacle of those who stray from conformity. Unable to fit in equals neglect and abandonment in the cold streets, not to mention police harrassment. It will be argued that as a matter of fact, the system doesn't enforce homelessness on humans. Market competition does. While true, it is too short sighted of an argument. While by design or mere coincedence, the establishment draws considerable health from the spectacle of homelessness.
+
+What better way could the establishment use to whisper into every working man's conscioussness the punishments they are working against? Homelessness in one way or another is a confrontation of power. A statement made clear by the forces of politics and economics that the human in himself doesn't matter. Unless productive and conformative, the human can be left behind. Can be pushed deeper unto the bottom.
+
+In no other place the legitimacy of such confrontation becomes as clear as when elites exclamate that homelessness or rather poverty are direct consequences of one's very own choices—be it laziness, lack of motivation, stupidity or mental illness. For the humans that lack intrinsic motivation to conform with power or fall short on mental sanity don't seem to deserve the basic entitlements of humanness. A diametrically opposed ideology from every humanitarian alleviation to our shared existential struggle.
+
+Ones intuitions don't betray him when he senses the necessity of homelessness in the grand spectacle of hyper-productivity and workaholicism. Not the idea of displaced unsheltered humans. The daily presence of unattended uncared for individuals, roaming the streets and congragating in camps. Police harrassment and public avoidance further the vividness of the punitive fate of those who fail to fit in. The image serves its purpose best if it is paired with failing attempts to end homelessness. Caricutarily funding executives of charitable organizations that refurbish the same decree: We can't help them, since they can't reintegrate. The abundance of resources in America funnily slips every conversation about supporting any form of minmum threshold for how low humans can fall. With all the hopes fixating on raising the bar on how high humans can rise. Billionarship's normalcy in the presence of homelessness speaks of unmistakable aggression. Not only does the rich get richer, the poor is to be displayed in sight of the public. The public is to be reminded of what could possibly happen to them. Clearly, America is not forced to abandon homeless people like it does. For if America chooses to send arsenals to save American tourists at the edge of the globe, why does she stand impotent as she confronts the displaced?
+
+In homelessness, the power of the economy is manifested. The excess of such power derives its legitimacy. The depth of humilation of homeless humans reflects back the potency and vigor of the status quo. A human dying from the freezing cold on American soil is not ignored by mere miscalculation. He is deliberately left and pushed down to express the profoundity of the system. He is marked with futility, not due to insufficient resources or sccarcity of strategy, he is wantonly juxtaposed in the streets to bring to life an elaborate show of how strident the system can be.
