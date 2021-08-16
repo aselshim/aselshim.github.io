@@ -19,11 +19,16 @@ title: Publications
 
 #### Wireless technology
 
+* [Wi-SUN: A Protocol Built for Smart Cities](https://www.mwrf.com/technologies/systems/article/21171348/silicon-labs-wisun-a-protocol-built-for-smart-cities) \| EMicrowaves&RF \| August 2021
+
+
 * [Why Thread network matters in smart home and building designs](https://www.edn.com/all-about-thread-network-and-why-it-matters-in-smart-home-smart-building-designs/) \| Electrical Design Network \| November 2020
 
 * [Bluetooth Bracelets: an Identity-Blind Option for Digital Contact tracing](https://venturebeat.com/2020/06/06/bluetooth-bracelets-are-an-identity-blind-option-for-digital-contact-tracing/) \| Venture Beat \| June 2020	 
 
 #### RF Engineering
+
+* [The SoC Evolution: From Early Handsets To Edge Intelligence](https://www.embeddedcomputing.com/technology/processing/chips-and-socs/the-soc-evolution-from-early-handsets-to-edge-intelligence \| Embedded Computing Design \| June 2021
 
 * [IC Design: Trajectories from the Past and into the Future](https://www.embedded-computing.com/home-page/ic-design-trajectories-from-the-past-and-into-the-future) \| Embedded Computing Design \| September 2020
 
