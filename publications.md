@@ -19,6 +19,11 @@ title: Publications
 
 #### Wireless technology
 
+* [Wireless commissioning is easier, faster in smart buildings: Part 2](https://www.edn.com/wireless-commissioning-is-easier-faster-in-smart-buildings-part-2/)\| EDN \| October 2021
+
+
+* [How wireless commissioning is performed in a smart home: Part 1](https://www.edn.com/how-wireless-commissioning-is-performed-in-a-smart-home-part-1/)\| EDN \| October 2021
+
 * [Wi-SUN: A Protocol Built for Smart Cities](https://www.mwrf.com/technologies/systems/article/21171348/silicon-labs-wisun-a-protocol-built-for-smart-cities) \| EMicrowaves&RF \| August 2021
 
 
